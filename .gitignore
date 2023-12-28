@@ -1,2 +1,4 @@
 model
 venv
+__pycache__
+.idea
